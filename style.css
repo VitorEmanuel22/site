@@ -1,0 +1,42 @@
+.colornav{
+    background-color: black;
+}
+
+.colornav a{
+    color: white;
+}
+
+#fundo{
+    background: rgb(12,25,3);
+    background: linear-gradient(90deg, rgba(12,25,3,1) 0%, rgba(44,93,29,1) 35%, rgba(0,204,3,1) 100%);
+    color: white;
+    text-align: center;
+}
+
+footer{
+    text-align: justify;
+}
+
+.imgviagem{
+    border-radius: 30px;
+    border-style: ridge;
+}
+
+.colornav img{
+    border-radius:50%;
+    border-style:ridge;
+    border-width: 5px;
+    border-color: darkgreen;
+}
+
+#logo{
+    border-radius: 50%;
+    border-style:ridge;
+    border-width: 5px;
+    border-color: darkgreen;
+}
+
+.accordion-button, .accordion-collapse{
+    background-color: green;
+    color: lightgreen;
+}
